@@ -1,0 +1,38 @@
+Top boroughs by number of listings:
+Manhattan        36112
+Brooklyn         34384
+Queens           10791
+Bronx             2242
+Staten Island      794
+
+Average price by borough (high->low):
+neighbourhood_group
+brookln          580.00
+nan              569.13
+Bronx            532.97
+Staten Island    532.41
+Brooklyn         526.27
+Queens           524.41
+Manhattan        524.06
+manhatan         460.00
+
+Room type summary (count, mean_price):
+                 count    mean
+room_type                     
+Hotel room          95  571.41
+Shared room       1784  526.42
+Entire home/apt  44056  525.64
+Private room     38167  524.80
+
+Top hosts by listings (host_id : listings):
+host_id
+1727019127     332.0
+3405726007     332.0
+87944211655    332.0
+45153317531    332.0
+90148229302    332.0
+70352033029    332.0
+6866703084     332.0
+61907398658    332.0
+28199312869    332.0
+87920381104    332.0
